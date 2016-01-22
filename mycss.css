@@ -1,0 +1,62 @@
+.col-sm-12 {
+  color: black;
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.col-sm-4 {
+  text-align: center;
+  border-radius: 5px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+h1 {
+  color: rgb(210, 210, 210);
+}
+body {
+  background: url('background.png');
+  color: rgb(120, 123, 124);
+}
+
+.jumbotron {
+  background-color: rgb(89, 65, 189);
+  color: rgb(233, 233, 233);
+  margin-bottom: -30px;
+}
+
+.panel-title{
+  font-size: 22pt;
+  color: rgb(68, 68, 68);
+}
+
+.panel-body {
+  height: 300px;
+  background-color: rgba(235, 236, 234, 0.1);
+  color: rgb(99, 99, 99);
+
+}
+
+.content-container {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.panel-body-ruby {
+  padding-top: 20px;
+  font-size: 12pt;
+  height: 100px;
+  color: rgb(99, 99, 99);
+}
+
+.panel-default > .panel-heading {
+  background-color: rgb(232, 232, 232);
+}
+
+.navbar-inverse {
+  margin-bottom: 42px;
+}
